@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @posreadyxp
-- 👀 I’m interested in hacker
-- 🌱 I’m currently learning python
+- 🌱 I’m currently developing NoName BOT
 
 <!---
 posreadyxp/posreadyxp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
