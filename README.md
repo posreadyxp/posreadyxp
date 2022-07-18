@@ -2,9 +2,10 @@ Hi there!
 
 I like arch-like disrtibutives (most like artix linux)
 
-My discord: PosReady...#3604
+[![discord](https://discord.c99.nl/widget/theme-2/915966988143198218.png)](https://discord.com/users/915966988143198218/)
 
-[![dis](https://discord.c99.nl/widget/theme-4/915966988143198218.png)](https://discord.com/users/915966988143198218/)
+
+![Skils](https://github-readme-stats.vercel.app/api?username=posreadyxp&theme=tokyonight&show_icons=true)
 
 My activity projects:
 
